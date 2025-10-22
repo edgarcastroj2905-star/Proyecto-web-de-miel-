@@ -1,2 +1,5 @@
-# Proyecto-web-de-miel-
-Proyecto Web de miel usando ia y html
+# Proyecto html web usando Gemini 
+Este proyecto esta desarrollado completamente con la ia, usando unicamente html
+
+## AUTOR
+Edgar Castro - CUR Chontales 
